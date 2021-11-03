@@ -1,3 +1,0 @@
-[submodule "submodule-child"]
-	path = submodule-child
-	url = git@github.com:ChrisExP/submodule-child
